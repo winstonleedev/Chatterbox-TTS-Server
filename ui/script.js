@@ -58,7 +58,8 @@ document.addEventListener('DOMContentLoaded', async function () {
         { code: 'es', name: 'Spanish (Español)' },
         { code: 'sw', name: 'Swahili (Kiswahili)' },
         { code: 'sv', name: 'Swedish (Svenska)' },
-        { code: 'tr', name: 'Turkish (Türkçe)' }
+        { code: 'tr', name: 'Turkish (Türkçe)' },
+        { code: 'vi', name: 'Tiếng Việt' }
     ];
     const LANGUAGES_ENGLISH_ONLY = [
         { code: 'en', name: 'English' }
